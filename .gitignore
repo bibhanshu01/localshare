@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts (keep LocalShare.exe if desired, or track it)
+build/
+*.spec
+
+# OS temporary files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE / Editor configs
+.vscode/
+.idea/
